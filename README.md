@@ -2,7 +2,7 @@
 <br><br><br>
 <h2>About me</h2>
 <br>
-<h3>I’m interested in HTML and CSS, Batch</h3>
+<h3>I’m interested in <fontcolor="red">HTML<fontcolor> and CSS, Batch</h3>
 <h3>I’m currently learning HTML</h3>
 <br><br>
 <h2>My repositories</h2>
