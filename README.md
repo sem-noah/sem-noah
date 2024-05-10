@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @sem-noah</h1>
+<h1>👋 Hi, I’m <italic>@sem-noah</italic></h1>
 <br><br><br>
 <h2>About me</h2>
 <br>
