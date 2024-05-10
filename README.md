@@ -1,6 +1,5 @@
 <html>
   <head>
-    backgroundcolor:"#07DA63"
   </head>
   <body>
     <h1>👋 Hi, I’m <i>@sem-noah</i></h1>
