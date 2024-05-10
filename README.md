@@ -7,7 +7,7 @@
 <br><br>
 <h2>My repositories</h2>
 <br>
-<h3>I still don't have any projects, but soon there will be some!</h3>
+<h3>I still don't have any repositories, but soon there will be some!</h3>
 <br><br>
 <h2>My statistics</h2>
 <br>
