@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m <i>@sem-noah</i></h1>
+<h1>👋 Hi, I’m <a> href="github.com/sem-noah"<i>@sem-noah</i></a></h1>
 <br><br><br>
 <h2>About me</h2>
 <br>
