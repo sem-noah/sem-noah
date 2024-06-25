@@ -17,6 +17,9 @@
     <br>
     <h2>My statistics</h2>
     <p>My statistics will be shown soon!</p>
+    <br>
+    <h2>Social Media</h2>
+    <p>Website: <a href="https://sem.boven.name"><strong>sem.boven.name</strong></a></p>
     <br><br>
     <p>👋 Bye!</p>
   </body>
