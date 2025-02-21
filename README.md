@@ -16,7 +16,7 @@
     <p>I still don't have any repositories, but soon there will be some!</p>
     <br>
     <h2>My statistics</h2>
-    <p>My statistics will be shown soon!</p>
+    ![My statistics](https://github-readme-stats.vercel.app/api?username=sem-noah&show_icons=true&count_private=true) 
     <br>
     <h2>Social Media</h2>
     <p>Website: <a href="https://sem.boven.name"><strong>sem.boven.name</strong></a></p>
