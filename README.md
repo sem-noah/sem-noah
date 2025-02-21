@@ -13,10 +13,10 @@
     <p>I'm now working with <strong>HTML</strong> and <strong>CSS</strong>.</p>
     <br>
     <h2>My repositories</h2>
-    <p>I still don't have any repositories, but soon there will be some!</p>
+    <p>I don't have any repositories yet, but soon there will be some!</p>
     <br>
     <h2>My statistics</h2>
-![My statistics](https://github-readme-stats.vercel.app/api?username=sem-noah&show_icons=true&count_private=true) 
+    <img src="https://github-readme-stats.vercel.app/api?username=sem-noah&show_icons=true&count_private=true" alt="My statistics">
     <br>
     <h2>Social Media</h2>
     <p>Website: <a href="https://sem.boven.name"><strong>sem.boven.name</strong></a></p>
