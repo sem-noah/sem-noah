@@ -5,7 +5,7 @@
   </head>
   
   <body>
-    <h1>👋 Hi, I’m <i>@sem-noah</i></h1>
+    <h1>Hi, I’m <i>@sem-noah</i></h1>
     <br><br>
     <h2>About me</h2>
     <p>I’m interested in <strong>HTML</strong>, <strong>CSS</strong> and <strong>Batch</strong>.</p>
@@ -20,6 +20,6 @@
     <h2>Social Media</h2>
     <p>Website: <a href="https://sem.boven.name"><strong>sem.boven.name</strong></a></p>
     <br><br>
-    <h3>👋 Bye!</h3>
+    <h3>Feel free to check out my account, bye!</h3>
   </body>
 </html>
