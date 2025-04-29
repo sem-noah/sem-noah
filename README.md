@@ -11,6 +11,8 @@ I’m currently learning **HTML** and **CSS**, I already learned working with **
 ## Social Media
 Website: 
 <br>
+
 [Sems Website](https://sem.boven.name)
+
 <br><br><br>
 **Feel free to check out my account!**
