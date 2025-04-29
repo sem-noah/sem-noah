@@ -9,7 +9,7 @@ I’m currently learning **HTML** and **CSS**, I already learned working with **
 <img src="https://github-readme-stats.vercel.app/api?username=sem-noah&show_icons=true&count_private=true" alt="My statistics">
 <br><br>
 ## Social Media
-Website: <a href="https://sem.boven.name"><strong>sem.boven.name</strong></a>
+Website: [sem.boven.name](https://sem.boven.name)
 
 <br><br><br>
 **Feel free to check out my account!**
