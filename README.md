@@ -1,7 +1,7 @@
 # Hi, I’m @sem-noah
-    <br><br>
-    <h2>About me</h2>
-    <p>I’m interested in <strong>HTML</strong>, <strong>CSS</strong> and <strong>Batch</strong>.</p>
+<br><br><br>
+## About me
+I’m interested in **HTML**, **CSS** and **Batch**
     <p>I’m currently learning <strong>HTML</strong> and <strong>CSS</strong>, I already learned working with <strong>Batch</strong>.</p>
     <br>
     <h2>My statistics</h2>
