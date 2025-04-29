@@ -1,11 +1,4 @@
-<html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="UTF-8">
-  </head>
-  
-  <body>
-    <h1>Hi, I’m <i>@sem-noah</i></h1>
+# Hi, I’m @sem-noah
     <br><br>
     <h2>About me</h2>
     <p>I’m interested in <strong>HTML</strong>, <strong>CSS</strong> and <strong>Batch</strong>.</p>
