@@ -17,6 +17,6 @@
     <h2>Social Media</h2>
     <p>Website: <a href="https://sem.boven.name"><strong>sem.boven.name</strong></a></p>
     <br><br>
-    <h4>Feel free to check out my account, bye!</h4>
+    <h4>Feel free to check out my account!</h4>
   </body>
 </html>
