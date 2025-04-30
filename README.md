@@ -6,7 +6,7 @@ I’m interested in **HTML**, **CSS** and **Batch**.
 I’m currently learning **HTML** and **CSS**, I already learned working with **Batch**.
 <br><br>
 ## My statistics
-<img src="https://github-readme-stats.vercel.app/api?username=sem-noah&show_icons=true&count_private=true" alt="My statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=sem-noah&show_icons=true&count_private=true" alt="My statistics"/>
 <br><br>
 ## Social Media
 <br>
