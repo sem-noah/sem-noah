@@ -1,4 +1,4 @@
-# Hi, I’m sem-noah
+# Hi, I’m *@sem-noah*
 <br><br><br>
 ## About me
 I’m interested in **HTML**, **CSS** and **Batch**. 
